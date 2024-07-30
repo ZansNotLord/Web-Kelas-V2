@@ -1,7 +1,7 @@
 {
   "name": "webkelas",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.2.3",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -19,10 +19,10 @@
     "aos": "^2.3.4",
     "axios": "^1.5.0",
     "firebase": "^10.3.1",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-slick": "^0.29.0",
-    "react-swipeable-views": "^0.14.0",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-slick": "latest",
+    "react-swipeable-views": "latest",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.11",
     "sweetalert2": "^11.7.32",
