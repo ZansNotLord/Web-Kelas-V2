@@ -6,14 +6,14 @@ import { getFirestore } from "firebase/firestore"
 import {getAuth, GoogleAuthProvider} from 'firebase/auth'
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBmUIXJblRGF4HTCO3hOB8MykvLOq7whUE",
-  authDomain: "project-web-kelas.firebaseapp.com",
-  projectId: "project-web-kelas",
-  storageBucket: "project-web-kelas.appspot.com",
-  messagingSenderId: "202691312352", 
-  appId: "1:202691312352:web:e82e7a494e705b2a12ee85"
-
-
+    apiKey: "AIzaSyDSY5esCgS9RUqbaBgN0StuICjUcm7tSr4",
+    authDomain: "web-kelas-eab96.firebaseapp.com",
+    projectId: "web-kelas-eab96",
+    storageBucket: "web-kelas-eab96.appspot.com",
+    messagingSenderId: "159379905739",
+    appId: "1:159379905739:web:ad22ced7712b7f72c18f4e",
+    measurementId: "G-QXJP0JEE4R"
+  
 };
 
 // Initialize Firebase
